@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: /content/Harmful_Object_Detection/data/train/images
+val: /content/Harmful_Object_Detection/data/valid/images
 
 nc: 6
 names: ['gun', 'knife', 'cigarette', 'bad fingers', 'alcohol', 'blood']
